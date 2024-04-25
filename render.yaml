@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: education-gitturbowarp
+    name: education-turbogithub
     env: python
     region: Oregon
     plan: free
