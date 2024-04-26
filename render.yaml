@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: education-turbogithub
+    name: mirror-github
     env: python
     region: Oregon
     plan: free
