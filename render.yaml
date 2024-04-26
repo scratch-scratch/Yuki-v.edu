@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mirror-github
+    name: mirror-github-xyz
     env: python
     region: Oregon
     plan: free
