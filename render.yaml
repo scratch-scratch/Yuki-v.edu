@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mirror-github-xyz
+    name: g-ith-uby-uki
     env: python
     region: Oregon
     plan: free
